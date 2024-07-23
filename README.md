@@ -1,4 +1,4 @@
-### Hola, soy [Tu Nombre] 👋
+ Hola, soy [Jose Manuel Vazquez Espinoza] 👋
 
 - 🌱 Estudiante de Ingeniería en Software con una gran pasión por la tecnología.
 - 💻 Actualmente aprendiendo y explorando el desarrollo web, Python y JavaScript.
